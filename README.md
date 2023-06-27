@@ -1,4 +1,4 @@
-The is an EKS demo to show the use of pods, services, and deployments. The application is a voting app (demo-app) provided as an example from kodekloud.com
+The is an EKS demo to show the use of pods, services, and deployments. The application image is a voting app (demo-app) provided as an example from kodekloud.com. The files provided are how this application would work in Kubernetes.
 
 The services expose the ports for the pods to talk to each other and the deployments are definitions for pods to be launched from.
 
