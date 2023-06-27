@@ -8,8 +8,6 @@ Follow these steps to deploy the demo application on your EKS cluster:
 
 2. Navigate to the cloned directory:
 
-cd eks-demo
-
 3. Apply the Kubernetes configurations using kubectl:
 
 kubectl apply -f deployments/
